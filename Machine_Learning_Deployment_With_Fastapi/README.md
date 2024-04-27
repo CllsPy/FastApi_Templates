@@ -20,7 +20,7 @@ O código foi feito em Python e produzido na plataforma Replit, para que o proje
 Para reproduzir o projeto basta clonar o repositório e fazer o upload dos arquivos na sua IDE de escolha.
 
 ## Authors
-Carlos L - [Github] (https://github.com/CllsPy)
+Carlos L - [Github](https://github.com/CllsPy)
 
 ## Acknowledgements
-Este projeto foi feito tendo como base [How to Deploy Machine Learning Model as an API in Python - FastAPI] (https://www.youtube.com/watch?v=ZTz26f6XXrQ)
+Este projeto foi feito tendo como base [How to Deploy Machine Learning Model as an API in Python - FastAPI](https://www.youtube.com/watch?v=ZTz26f6XXrQ)
