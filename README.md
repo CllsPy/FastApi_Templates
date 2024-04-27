@@ -1,3 +1,5 @@
+![](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+<br>
 # What is?
 [FastAPI](https://fastapi.tiangolo.com/) is a modern, fast (high-performance), web framework for building APIs with Python 3.8+ based on standard Python type hints.
 
