@@ -1,0 +1,11 @@
+## base
+fastapi
+uvicorn
+pydantic
+scikit-learn
+pickle5
+pypi-json
+requests
+
+## clean code
+ruff
