@@ -2,7 +2,7 @@
 O objetivo deste projeto é construir um sistema que seja capaz de receber dados de pessoas em uma clínica e retornar o status da saúde da pessoa, neste caso se ela possui ou não diabetes, 
 para construir o webapp será usado o fastapi e os dados foram treinados segundo o modelo SVM.
 
-## Etapas
+## Steps
 1. Carregar modelo
 2. Criar webapp
 3. Testar
@@ -15,3 +15,12 @@ O código foi feito em Python e produzido na plataforma Replit, para que o proje
 - pypi-json
 - ruff
 - scikit-learn
+
+## Launch
+Para reproduzir o projeto basta clonar o repositório e fazer o upload dos arquivos na sua IDE de escolha.
+
+## Authors
+Carlos L - [Github] (https://github.com/CllsPy)
+
+## Acknowledgements
+Este projeto foi feito tendo como base [How to Deploy Machine Learning Model as an API in Python - FastAPI] (https://www.youtube.com/watch?v=ZTz26f6XXrQ)
